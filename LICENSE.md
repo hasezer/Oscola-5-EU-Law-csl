@@ -2,7 +2,7 @@
 
 **oscola-5-eu-law-csl** (the `oscola-5th-edition.csl` file and the accompanying metadata guide)
 
-Copyright (c) 2026 [YOUR NAME]
+Copyright (c) 2026 [Arda Sezer]
 
 This work is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)**.
 
