@@ -1,0 +1,5 @@
+# Native Ko-fi key: use only your username/slug (e.g., if your link is ko-fi.com/hasezer, put hasezer)
+ko_fi: hasezer
+
+# Custom link array for PayPal: wrap the full URL in quotes
+custom: ["https://www.paypal.me/hasezer274"]
